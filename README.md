@@ -1,8 +1,7 @@
 <h1>FocusManager</h1>
 
 FocusManager is a desktop application designed to boost productivity by helping users efficiently manage their time on the computer. It features time tracking, a Pomodoro timer, task management using an Eisenhower matrix, and statistical reports for insights into productivity.
-Features
-Main Features
+<h3>Main Features</h3>
 
     Dashboard:
         Overview of total time spent on applications.
@@ -20,12 +19,12 @@ Main Features
         Visual reports (charts) showing time usage and task progress.
         Generates daily, weekly, and monthly productivity summaries.
 
-Optional Features
+<h3>Optional Features</h3>
 
     Personalized notifications (Pomodoro reminders, application time limits).
     Theme customization for better visual comfort.
 
-Technical Details
+<h3>Technical Details</h3>
 
     Language: Java
     Framework: JavaFX for UI
