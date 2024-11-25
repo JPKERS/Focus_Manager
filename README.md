@@ -1,4 +1,4 @@
-<h6>FocusManager</h6>
+<h1>FocusManager</h1>
 
 FocusManager is a desktop application designed to boost productivity by helping users efficiently manage their time on the computer. It features time tracking, a Pomodoro timer, task management using an Eisenhower matrix, and statistical reports for insights into productivity.
 Features
