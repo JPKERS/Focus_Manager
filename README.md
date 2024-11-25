@@ -32,8 +32,7 @@ FocusManager is a desktop application designed to boost productivity by helping 
     Version Control: GitHub for collaborative development
     Cross-Platform: Compatible with Windows, macOS, and Linux.
 
-Getting Started
-Prerequisites
+<h3>Getting Started Prerequisites</h3>
 
     Java Development Kit (JDK): Version 17 or higher.
     JavaFX SDK: Ensure JavaFX is configured in your environment.
