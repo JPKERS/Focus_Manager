@@ -38,12 +38,20 @@ FocusManager is a desktop application designed to boost productivity by helping 
     JavaFX SDK: Ensure JavaFX is configured in your environment.
     Docker: For MySQL database setup (optional).
 <h3>Interfaces</h3>
-<img src="T1.png" alt="1" width="500"/> <img src="T2.png" alt="2" width="500"/>
+<img src="T1.png" alt="1" width="900"/>
 <br>
-<img src="4.jpg" alt="3" width="500"/> <img src="T4.png" alt="4" width="500"/>
+<img src="T2.png" alt="2" width="900"/>
 <br>
-<img src="T5.png" alt="5" width="500"/> <img src="T6.png" alt="6" width="500"/>
+<img src="4.jpg" alt="3" width="900"/> 
 <br>
-<img src="T7.png" alt="7" width="500"/> <img src="T8.png" alt="8" width="500"/> 
+<img src="T4.png" alt="4" width="900"/>
+<br>
+<img src="T5.png" alt="5" width="900"/> 
+<br>
+<img src="T6.png" alt="6" width="900"/>
+<br>
+<img src="T7.png" alt="7" width="900"/> 
+<br>
+<img src="T8.png" alt="8" width="900"/> 
 <h3>Class Diagram</h3> 
 <img src="Class Diagram.png" alt="8" width="900"/> 
